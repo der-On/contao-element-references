@@ -6,7 +6,7 @@ This extension will display a list of all content elements that include/referenc
 Installation:
 -------------
 
-clone this repository into the following directory within your contao page:
+clone/download this repository into the following directory within your contao page:
 system/modules/element_references/
 
 
