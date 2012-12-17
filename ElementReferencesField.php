@@ -26,7 +26,7 @@ class ElementReferencesField extends Widget
                 $this->element = $element;
 
                 if ($table == 'tl_content') {
-                    $this->type = $this->element['type'];
+                    $this->type = 'alias';
                 } else $this->type = str_replace('tl_','',$table);
 
                 if ($table == 'tl_content') {
